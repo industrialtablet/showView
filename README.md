@@ -16,8 +16,19 @@
 
 
 # 联系方式：
-电子邮件：dennis@best-cloud.cn
-地址：深圳市宝安区福永街道办下十围第一工业区A4栋3楼
-其它：15989301314（李先生）、18929310780（彭先生）
+电子邮件:dennis@best-cloud.cn
+网站:www.best-cloud.cn
+地址:深圳市宝安区福永街道办下十围第一工业区A4栋3楼
+其它:15989301314（李先生）、18929310780（彭先生）
 
+
+# 安卓云管理服务器地址：
+http://118.123.17.98:50907/login
+测试登录用户名：  user1
+测试登录用户密码：111111
+
+# 客户端百度云下载地址：
+setsystemtime服务程序（http://pan.baidu.com/s/1qWxFNqc）
+buffano服务程序（http://pan.baidu.com/s/1eQhLmdc）
+showView（http://pan.baidu.com/s/1o6CDblS）
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
