@@ -22,8 +22,36 @@ http://118.123.17.98:50907/login
 测试登录用户名：  user1    
 测试登录用户密码：111111    
 
-# 客户端(V1.0)百度云下载地址：
+# 客户端(V1.0)下载地址：
 setsystemtime服务程序（http://pan.baidu.com/s/1qWxFNqc）    
 buffano服务程序（http://pan.baidu.com/s/1eQhLmdc）    
 showView（http://pan.baidu.com/s/1o6CDblS）    
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+# Project Introduction：    
+"Android Cloud"Advertising Operation Platform    
+——MultiMedia Informatioan Distribution System
+
+# Shenzhen HYY Technology Co., Ltd Introduction：
+ShenZhen HYY Technology Co., Ltd has focus on the original R&D, designing and manufacturing of over 60 models of different digital signage equipments and system, including flash memory playing LCD, such as LCD digital sign, LCD advertising display (screen), pop advertising player, pos digital signage player, internet digital signage system, etc.    
+    
+Note: though equipped with the same core function, our product has been called with different names in the commercial usage market, such as: digital signage, digital sign, advertising display, advertisement display, LCD advertising display, LCD advertisement display, LCD digital signage, LCD digital sign, advertising player, advertisement player, LCD advertising player, LCD advertisement player, advertisement screen, ad player, advertising LCD, digital display,retail display, internet digital signage system, network digital signage system, etc.    
+    
+digital signage digital advertising digital display retail display pos display pop display    
+
+# Contact Us：
+E-mail:dennis@best-cloud.cn    
+Web:www.best-cloud.cn    
+Add:3F,A4 Building,No.1 Industrial Area,Xia Shi Wei,FuYong Street,Bao An District,ShenZhen,China.    
+Mob:+86-15989301314（Alice）、+86-18929310780（Dennis）    
+
+
+# "Android Cloud" Advertising Operation Platform Login Address：
+http://118.123.17.98:50907/login    
+UserName For Test：  user1    
+Password For Test：  111111    
+
+# "Android Cloud"Client(V1.0)Download Address：
+setsystemtime service app（http://pan.baidu.com/s/1qWxFNqc）    
+buffano service app（http://pan.baidu.com/s/1eQhLmdc）    
+showView app（http://pan.baidu.com/s/1o6CDblS）  
